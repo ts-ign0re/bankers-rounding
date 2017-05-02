@@ -1,6 +1,6 @@
 {
   "name": "bankers-rounding",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Banker's rounding for Javascript",
   "main": "index.js",
   "scripts": {
