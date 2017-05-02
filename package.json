@@ -1,0 +1,25 @@
+{
+  "name": "bankers-rounding",
+  "version": "0.1.0",
+  "description": "Banker's rounding for Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tronin/bankers-rounding.git"
+  },
+  "keywords": [
+    "bankers",
+    "rounding",
+    "round",
+    "math"
+  ],
+  "author": "Tronin Denis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tronin/bankers-rounding/issues"
+  },
+  "homepage": "https://github.com/tronin/bankers-rounding#readme"
+}
