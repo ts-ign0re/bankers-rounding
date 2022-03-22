@@ -14,6 +14,9 @@ var bankersRounding = require('bankers-rounding');
 import bankersRounding from 'bankers-rounding';
 
 
+
+// Tests
+
 bankersRounding(2.5); // 2
 bankersRounding(3.5); // 4
 bankersRounding(0.025, 2); // 0.02
